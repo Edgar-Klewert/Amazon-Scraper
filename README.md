@@ -45,8 +45,8 @@ amazon-scraper/
 ### 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-repo/amazon-scraper.git
-cd amazon-scraper/backend
+git clone https://github.com/Edgar-Klewert/Amazon-Scraper.git
+cd amazon-scraper-api
 bun install
 ```
 
@@ -126,7 +126,7 @@ curl "http://localhost:3001/api/scrape?keyword=wireless+headphones&maxResults=3"
 ### 🛠️ Installation
 
 ```bash
-cd amazon-scraper/frontend
+cd amazon-scraper-app
 bun install  # or npm install
 ```
 
